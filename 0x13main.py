@@ -17,4 +17,4 @@ top_student, top_score = students[0]
 print("Scores:", scores)
 print("High Scorers:", high_scorers)
 print("Grades Dictionary:", grades_dict)
-print("Top Performer:", {top_student}, "with a score of", {top_score})
+print("Top Performer:", top_student, "with a score of", top_score)
